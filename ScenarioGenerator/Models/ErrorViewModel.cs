@@ -1,3 +1,5 @@
+using System;
+
 namespace ScenarioGenerator.Models
 {
     public class ErrorViewModel
